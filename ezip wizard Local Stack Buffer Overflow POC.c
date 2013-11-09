@@ -1,4 +1,4 @@
-*ezip wizard Local Stack Buffer Overflow (SEH) POC
+/*ezip wizard Local Stack Buffer Overflow (SEH) POC
 SEH chain of main thread
 Address    SE handler
 0012FC60   58585858
